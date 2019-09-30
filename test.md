@@ -19,13 +19,13 @@
 ```
 # range的技術
 
-## range的技術(1)
+### range的技術(1)
 list1 =(range(7))
 list1
 ```
 答案是:[0, 1, 2, 3, 4, 5, 6]
 ```
-# range的技術(2)
+### range的技術(2)
 list2=range(1,6)
 list(list2)
 ```
