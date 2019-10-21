@@ -83,7 +83,6 @@ print(total)
 ```
 while 迴圈(loop)的技巧
 ```
-```
 4.使用while 迴圈(loop)計算1+2+3+.....100
 sum = 0
 x=1
